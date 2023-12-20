@@ -1,0 +1,15 @@
+
+
+patient 
+blazecodes
+kingsrz
+
+
+superuser
+kapil
+kapil
+
+##
+git init
+git add .
+git commit -m "initial commit"
